@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TrevorMay
+- 👀 I’m interested in all things technology! Although some of my biggest passions include headphones, keyboards, and coding.
+- 🌱 I’m currently learning Python but also hoping to pickup JavaScript, and R in the future.
+- 📫 How to reach me: https://www.linkedin.com/in/trevordmay/
