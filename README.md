@@ -8,7 +8,6 @@ I am a tech geek who is fascinated with the ways computers can make our lives ea
 
 *   🌍  I'm based in Utah
 *   ✉️  You can contact me at [trevor.d.may@gmail.com](mailto:trevor.d.may@gmail.com)
-*   
 
 ### Skills 
 <p align="left">
