@@ -1,10 +1,10 @@
 Hi 👋 My name is Trevor May
 ===========================
 
-Data Engineer / Data Science Grad Student / Tech Enthusiast
+Masters of Data Science / Senior Business Analyst At HCA HealthCare / Tech Enthusiast
 -----------------------------------------------------------
 
-I am a tech geek who is fascinated with the ways computers can make our lives easier. Currently some of my favorite study topics are data visualization and machine learning using technologies such as Power BI, SQL, and Python. I also love finding ways to automate tasks and increase my productivity with Python or programs such as AutoHotKey. Along with programming, some of my other tech related hobbies include: 3-D Printing, cyber security, and designing custom keyboards!
+I am a tech geek who is fascinated with the ways computers can make our lives easier. Currently some of my favorite study topics are data visualization and machine learning using technologies such as Power BI, SQL, and Python. I also love finding ways to automate tasks and increase my productivity with Python and AutoHotKey. Along with programming, some of my other tech related hobbies include: 3-D Printing, cyber security, and designing custom keyboards!
 
 *   🌍  I'm based in Utah
 *   ✉️  You can contact me at [trevor.d.may@gmail.com](mailto:trevor.d.may@gmail.com)
